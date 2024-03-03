@@ -4,4 +4,4 @@ feature-some 3
 release-1.0 4
 hotfix 5
 develop 6 - mini - v1
-develop 7 - gram
+develop 7 - gram - v1
